@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Pagination/Pagination.scss"],"names":[],"mappings":"AAAA,sBACE,aAAc,CACd,mBAAoB,CACpB,WAAY,CACZ,qBAAsB,CACtB,oBAAqB","file":"main.942cd257.chunk.css","sourcesContent":["a[aria-disabled=\"true\"] {\n  color: #6c757d;\n  pointer-events: none;\n  cursor: auto;\n  background-color: #fff;\n  border-color: #dee2e6;\n}\n"]}
